@@ -7,6 +7,9 @@
  
  To Do:
  -Split hand mechanic
+ 
  -Remove and restructure
+ 
  -A basic SQL database as a side project
+ 
  -A front end interface
